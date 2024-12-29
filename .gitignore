@@ -1,0 +1,33 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment files
+myenv/
+env/
+venv/ 
+
+smallpdf-convert-20241228-185115
+
+acs.env
+
+# Ignore any other files you want to ignore
+# (e.g. log files, temp files, etc.)
+Kannada_Images_pdf-images-0.jpg
+preprocessed_image.png
+optima-secure-plan_brochure.pdf
+optima-secure-plan_brochure_page-0001.pdf
+Kannada_Images_pdf.pdf
+kan.traineddata
+
+# 316, '(3) (1)ನೇ ಉಪಪ್ರಕರಣದ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಪ್ರತಿಯೊಂದು ಮಾಹಿತಿಯನ್ನು: ಸಾರ್ವಜನಿಕರಿಗೆ ಸುಲಭವಾಗಿ ದೊರೆಯುವಂತಹ ನಮೂನೆಯಲ್ಲಿ ಮತ್ತು ವಿಧಾನದಲ್ಲಿ ಪ್ರಸಾರ ಮಾಡತಕ್ಕದ್ದು.')
+# (2, 1456, '(4) ವೆಚ್ಚದ   ಪ್ರಮಾಣವನ್ನು: ಸಳೀಯ ಭಾಷೆಯನ್ನು   ಮತ್ತು ೮ೆ ಸ್ಥಳೀಯ   ಪ್ರದೇಶದಲ್ಲಿನ ಸಂಪರ್ಕದ ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನ ಇವುಗಳನ್ನು   ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಎಲ್ಲ ವಷಯಗಳನ್ನು ಪಸಾರ ಮಾಡತಕ್ಕದ್ದು ಮತು ೮ೆ ಮಾಹಿತಿಯು: ಕೇಂದ್ರ ಸಾರ್ವಜನಿಕ ಮಾಹಿತಿ ಅಧಿಕಾರಿಯ ಅಥವಾ ಸಂದರ್ಭಾನುಸಾರ.')
+# (2, 1693, 'ರಾಜ್ಯ ಸಾರ್ವಜನಿಕ ಮಾಹಿತಿ ಅಧಿಕಾರಿಯ ಬಳಿ ಸಾಧ್ಯವಾದಷ್ಟುಮಟ್ಟಿಗೆ  ವಿದ್
